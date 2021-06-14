@@ -1,0 +1,43 @@
+body {
+    background-image: url(./assests/images/download.jpg) ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    min-height: 100%;
+
+}
+
+nav {
+    background-color: blanchedalmond;
+    text-decoration: none;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+
+    
+   
+
+}
+
+li{
+    padding: 10px;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: larger;
+}
+.paragraph_style {
+    color: blanchedalmond;
+    margin-top: 250px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: large;
+}

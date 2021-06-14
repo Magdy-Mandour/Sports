@@ -1,0 +1,90 @@
+.main_title {
+	text-decoration: underline;
+}
+
+
+.image {
+	/* width:63%;
+	float:left; */
+	margin: 10px;
+}
+	
+header{
+	height: 174px;
+	margin-bottom: 3%;
+}
+	
+.ot {
+	position: absolute;
+	bottom: 93%;
+	right: -15%;
+	color: black;
+	font-size: 3vw;
+	background-color: #f3bd4a;
+	font-weight: bold;
+	padding: 4px 6px;
+}
+
+
+h2 {
+	color: black;
+	font-size: 1.8vw;
+	font-style: italic;
+}
+
+#intro{
+	margin-top: 8vw;
+	margin-right: 8vw;
+	position: relative;
+	left: 3vw;
+}
+	
+body{
+	font-size: 1.5vw;
+}
+
+	
+#logo{
+	width: auto;
+	float:left;
+	margin: 20px 0px 20px 20px;
+}
+
+nav{
+	position: relative;
+	top:50%;
+}
+
+nav ul{
+	width: 70%;
+}
+
+nav li{
+	background-color:white;
+	font-size:1.8vw;
+	font-weight:bold;
+	text-decoration:none;
+	padding: 0;
+	margin: 0;
+}
+nav a{
+	color:#2B5FB0;
+}
+	
+
+.myButton{
+	font-size: 2.5vw;
+	background-color: #eb5e21;
+	color: white;
+	margin-left: 8%;
+}
+
+#how img {
+	max-width: 60%;
+	position: relative;
+	margin: 0px 0 10px -30%;
+	left: 50%;
+}
+figcaption {
+	font-size: 0.5vw;
+}
